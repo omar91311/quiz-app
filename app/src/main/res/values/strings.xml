@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_no_1">1) Simplify 10 + 50 / 25 * 60 -20</string>
+    <string name="question_no_2">2) What is Square of 45 ?</string>
+    <string name="question_no_3">3) Find value of x in the expression x^2 +  3x + 1 </string>
+    <string name="question_no_4">4) The Product of 25 and 20</string>
+    <string name="question_no_5">5) If x= 20 , y = 10 , then Value of x + 20y is </string>
+    <string name="answer_2_label_a">2025</string>
+    <string name="answer_2_label_b">2045</string>
+    <string name="answer_2_label_c">2055</string>
+    <string name="answer_2_label_d">2045</string>
+    <string name="answer_3_label_a">-2</string>
+    <string name="answer_3_label_b">-1</string>
+    <string name="answer_3_label_c">1</string>
+    <string name="answer_3_label_d">2</string>
+    <string name="answer_5_label_a">225</string>
+    <string name="answer_5_label_b">220</string>
+    <string name="answer_5_label_c">450</string>
+    <string name="answer_5_label_d">200</string>
+    <string name="answer_1_hint">Enter your Answer</string>
+    <string name="answer_4_hint">Enter Your Answer</string>
+    <string name="answer_1">110</string>
+    <string name="answer_4">500</string>
+    <string name="result_score_message">Your Score is %d / %d</string>
+    <string name="submit">SUBMIT</string>
+    <string name="submit_quiz">Submit Your Quiz</string>
+
+
+</resources>
